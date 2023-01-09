@@ -1,4 +1,4 @@
-##The Minimalist MHFZ bot Requested by Broguy47#6586
+## The Minimalist MHFZ bot Requested by Broguy47#6586
 
 before that i m sorry i dont have time to rebuilt bot</br>
 also i cant test the bot since i dont have time to make server </br>
@@ -24,7 +24,7 @@ pnpm prisma generate
 
 built then start the bot
 ```bash
-pnpm built
+pnpm build
 pnpm start
 ```
 this command bellow is same as both command
