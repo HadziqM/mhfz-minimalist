@@ -32,8 +32,7 @@ this command bellow is same as both command
 pnpm restart
 ```
 
-##Side Notes
+## Side Notes
 - This bot retain all command beside bounty and gacha from rain server also *on join* event since they use image processing
-</br>
-- this only tested once for sake of make it working, but no further test</br>
+- this only tested once for sake of make it working, but no further test
 - newbie command might not work except the bot is on rain server
